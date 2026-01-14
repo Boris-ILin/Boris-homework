@@ -91,7 +91,7 @@
 ![хосты](screenshots/screenshot1.png)`
 # Скриншоты Monitoring → Latest data 
 ![Ilyin-agent2](screenshots/screenshot2.png)`
-![Zabbix server](screenshots/screenshot3.png)`
+![Zabbix-server](screenshots/screenshot3.png)`
 # Скриншот лога/проверки работы zabbix-agent2
 ![логи скрин](screenshots/screenshot4.png)`
 # Установка zabbix-agent2
