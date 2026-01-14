@@ -43,7 +43,7 @@
 
 ### Скриншот авторизации в админке
 > Скриншот страницы логина Zabbix
-![Zabbix login](screenshots/screenshot.png)`
+![Zabbix login](screenshots/screenshot.png)
 
 ### Использованные команды
 
@@ -88,12 +88,12 @@
    3 Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
    4 Приложите в файл README.md текст использованных команд в GitHub
 # Скриншот Data collection → Hosts 
-![хосты](screenshots/screenshot1.png)`
+![хосты](screenshots/screenshot1.png)
 # Скриншоты Monitoring → Latest data 
-![Ilyin-agent2](screenshots/screenshot2.png)`
-![Zabbix-server](screenshots/screenshot3.png)`
+![Ilyin-agent2](screenshots/screenshot2.png)
+![Zabbix-server](screenshots/screenshot3.png)
 # Скриншот лога/проверки работы zabbix-agent2
-![логи скрин](screenshots/screenshot4.png)`
+![логи скрин](screenshots/screenshot4.png)
 # Установка zabbix-agent2
  sudo apt update
  sudo apt install -y zabbix-agent2
