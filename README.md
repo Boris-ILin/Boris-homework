@@ -52,12 +52,12 @@ Master-несколько slave
    Приложение (или роутер) по user_id определяет, в какой шард отправлять запрос.
 
 Режимы работы серверов
-На каждом сегменте: master для записи и slave для чтения/резерва.
+На каждом сегменте, master для записи и slave для чтения резерва.
 
-Блок-схема (текстом)
+Блок-схема 
 App / Router
- DB users (sharded)
-   shard1: master + slave
-   shard2: master + slave
- DB books: master + slave
- DB shops: master + slave
+- DB users (sharded)
+  - shard1: master + slave
+  - shard2: master + slave
+- DB books: master + slave
+- DB shops: master + slave
